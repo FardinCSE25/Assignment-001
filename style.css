@@ -11,6 +11,7 @@
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
+  z-index: 10;
 }
 
 .bg-primary{
@@ -89,8 +90,8 @@ nav{
   
   margin: 116px 159px 137px 141px;
   padding: 80px 50px;
-  /* background-color: #4E47FF;
-  opacity: 10%; */
+  background-color: #4E47FF;
+  opacity: 10%;
   border: none;
   border-radius: 24px;
   text-align: center;
